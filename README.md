@@ -1,6 +1,6 @@
 # Information-retreival
 
-Simple implementation of an Information Retrieval (IR) system 
+Simple implementation of an Information Retrieval (IR) system based for a collection of documents (Twitter messages),
 
 The system make use of the BERT and Glove model to rank results 
 
